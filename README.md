@@ -1,9 +1,11 @@
-# Meteor Streams [![Build Status](https://travis-ci.org/arunoda/meteor-streams.png?branch=master)](https://travis-ci.org/arunoda/meteor-streams)
+# Meteor Streams
 
 DB less realtime communication for meteor
 
-## Development Status
-Project development status is [inactive](https://github.com/arunoda/meteor-streams/issues/21#issuecomment-59030380).
+[Forked from](https://github.com/arunoda/meteor-streams).
+
+## Difference:
+This one works with Meteor 1.x, (tested with Meteor 1.3 beta).
 
 ## [Documentation](http://arunoda.github.io/meteor-streams/)
 
